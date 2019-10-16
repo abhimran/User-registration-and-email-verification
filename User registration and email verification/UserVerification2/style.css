@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+
+/* Common css end here */
+html,body{
+    background-color: #444;
+    height: 100vh;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+.form-design{
+    width: 420px;
+    background: rgba(0, 0, 0, 0.65);
+    padding: 20px 30px;
+    margin-top: 10%;
+}
+.form-design h3{
+    font-weight: 700;
+    font-size: 35px;
+    color: #fff;
+    text-transform: capitalize;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.form-group label{
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}
+.login-design{
+    margin-top: 30%;
+}
+.indexx{
+    border: 1px solid #fff;
+    background-color: #444;
+    margin-top: 25%;
+}

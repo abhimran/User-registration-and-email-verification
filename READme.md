@@ -1,0 +1,1 @@
+User registration and email verification with PHP and MySQL database on localhost
